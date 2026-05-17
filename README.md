@@ -91,11 +91,18 @@ The CNN model contains:
 - Faster convergence
 - Better validation accuracy
 - Adaptive learning rate
+Graph for ADAM
+<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/659451a2-b957-4430-a51b-132731b45bab" />
+<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/c538f7fc-3ae5-4ecf-8346-dfa4f99db8c6" />
+
 
 ### SGD with Momentum
 - More stable learning
 - Better generalization in some cases
 - Slower convergence
+Graph for SGD
+<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/151f4391-4a7b-4bd0-9a39-548f1ac277f7" />
+<img width="556" height="435" alt="image" src="https://github.com/user-attachments/assets/5d43faf3-e2fe-47da-8423-6265752b1af6" />
 
 ---
 
