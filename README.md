@@ -6,7 +6,10 @@ A Deep Learning based image classification project for detecting crop diseases u
 
 ## Project Overview
 
-This project uses CNN architectures to classify crop leaf diseases from images.  
+This project uses CNN architectures to classify crop leaf diseases from images. 
+Multiple CNN architectures were trained on the basic model.
+1. MobileNet : it is Lightweight, uses depthwise separable convolutions.
+
 The model was trained using TensorFlow/Keras and deployed using Streamlit for real-time predictions.
 
 ---
