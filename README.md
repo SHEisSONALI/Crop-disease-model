@@ -9,7 +9,8 @@ A Deep Learning based image classification project for detecting crop diseases u
 This project uses CNN architectures to classify crop leaf diseases from images. 
 Multiple CNN architectures were trained on the basic model.
 1. MobileNet : it is Lightweight, uses depthwise separable convolutions.
-2. ResNet : it Introduces *skip connections* to solve vanishing gradient.
+2. ResNet : it Introduces *skip connections* to solve vanishing gradient. (was developed using both keras/.pth)
+3. leNet : is a ancient version of all.
 
 The model was trained using TensorFlow/Keras and deployed using Streamlit for real-time predictions.
 
