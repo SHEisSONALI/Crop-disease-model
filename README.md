@@ -14,6 +14,7 @@ Multiple CNN architectures were trained on the basic model.
 
 The model was trained using TensorFlow/Keras and deployed using Streamlit for real-time predictions.
 
+adding Graphs for all models
 ---
 
 ## Features
