@@ -11,6 +11,8 @@ Multiple CNN architectures were trained on the basic model.
 1. MobileNet : it is Lightweight, uses depthwise separable convolutions.
 2. ResNet : it Introduces *skip connections* to solve vanishing gradient. (was developed using both keras/.pth)
 3. leNet : is a ancient version of all.
+4. DenseNet : Dense connections between layers, improves gradient flow.
+5. AlexNet : Deep CNN with ReLU activation, dropout, and GPU training.
 
 The model was trained using TensorFlow/Keras and deployed using Streamlit for real-time predictions.
 
